@@ -33,10 +33,17 @@ Usage commands;
 
 ## Example
 
-When you run the script, a 
+When you run the script, with keywords github, kaan and repo, it will generate words most likely passwords like;
+(github is the most important one - script will explain you what that is)
 ```
-# cd customWordlistGenerator
-# python wordlistGenerator.py
+
+Tgithub48T
+!!!!Github!!!!22
+repoQ85
+githubrepo71C
+...
+With theese words, it will generate 81,046,746 word.
+
 ```
 
 ## License
