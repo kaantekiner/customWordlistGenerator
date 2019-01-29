@@ -68,8 +68,8 @@ anahtarkelimelerList = []
 NumberLimitToAdd = 100
 JustNumberLimitToAdd = 10000000
 TotalWordGlobal = 0
-writefile=open("passwords.txt","w")
-print("At the end of the process, your generated file will be written to the file 'passwords.txt'")
+writefile=open("wordList.txt","w")
+print("At the end of the process, your generated file will be written to the file 'wordList.txt'")
 
 def StartCode():
 	global dateStart
