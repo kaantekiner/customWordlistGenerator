@@ -33,7 +33,7 @@ Usage commands;
 
 ## Example
 
-When you run the script, with keywords github, kaan and repo, it will generate words most likely passwords like;
+When you run the script, with keywords "github", "kaan" and "repo", it will generate words most likely passwords like;
 (github is the most important one - script will explain you what that is)
 ```
 
@@ -42,7 +42,7 @@ Tgithub48T
 repoQ85
 githubrepo71C
 ...
-With theese words, it will generate 81,046,746 word.
+With theese keywords, it will generate 81,046,746 combined word.
 
 ```
 
