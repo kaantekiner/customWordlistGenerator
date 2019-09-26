@@ -22,7 +22,7 @@ Just run the script with Python3, and follow the interactive commands. When it s
 ```
 wordList.txt
 ```
-You can intercept process while it building your wordlist, it will stop the operation there, but your list will no be deleated.
+You can intercept process while it building your wordlist, it will stop the operation there, but your list will no be deleted.
 
 Usage commands;
 
